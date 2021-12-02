@@ -1,0 +1,15 @@
+
+input
+{
+    cursor:pointer;
+}
+
+textarea
+{
+    word-wrap: break-word;
+}
+
+canvas
+{
+    background: #666;
+}
